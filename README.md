@@ -26,3 +26,12 @@ Saya bertanggung jawab menyelesaikan program bangkit ini [sertifikasi dari Dicod
 Saya juga memiliki gelar ... .<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/muhammad-rifki-a677a228b)ku ya.
+
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/masikyy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masikyy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masikyy&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

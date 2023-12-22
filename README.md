@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hallo everyone! 
-I'm Muhammad Rifki, Currently in my fifth semester at the University of Majalengka, I am actively pursuing a bachelor's degree in Informatics. My primary focus lies in the realms of machine learning and data science. Over the course of my academic journey, I've developed a robust understanding of the foundational principles underlying both machine learning and data science.
+I'm Muhammad Rifki, currently in my fifth semester at the University of Majalengka, I am actively pursuing a bachelor's degree in Informatics. My primary focus lies in the realms of machine learning and data science. Over the course of my academic journey, I've developed a robust understanding of the foundational principles underlying both machine learning and data science.
 
 Saya seorang **Machine Learning Cohort Bangkit 2023** di [Bangkit Academy](https://dashboard.bangkit.academy/).<br>
 
